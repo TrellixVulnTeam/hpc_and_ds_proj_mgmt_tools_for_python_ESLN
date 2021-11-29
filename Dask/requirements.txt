@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+h5py
+pillow
+toolz
+tables
+snakeviz
+scikit-image
